@@ -1,0 +1,32 @@
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "受験って大変だよね。"
+    },
+    {
+      "role": "user",
+      "content": "ほんとにね"
+    },
+    {
+      "role": "assistant",
+      "content": "入試方法は何？"
+    },
+    {
+      "role": "user",
+      "content": "一般受験かな"
+    },
+    {
+      "role": "assistant",
+      "content": "一日何時間くらい勉強してた？"
+    },
+    {
+      "role": "user",
+      "content": "平均で８時間くらいかな."
+    },
+    {
+      "role": "assistant",
+      "content": "すごい！"
+    }
+  ]
+}
